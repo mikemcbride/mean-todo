@@ -3,8 +3,6 @@ MEAN todo
 
 Basic todo app using the MEAN stack.
 
-#How to use this app
-
 ##Getting set up
 To run this app, you will need [NodeJS](http://www.nodejs.org) and [MongoDB](http://www.mongodb.org/downloads) installed locally.
 If you are using a Mac, the preferred way to install Node is using [Homebrew](http://brew.sh). I've never tried installing on Windows, but NodeJS's website has instructions.
