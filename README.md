@@ -1,7 +1,7 @@
 MEAN todo
 =========
 
-Basic todo app using the MEAN stack.
+Basic todo app using the MEAN stack. This was done mostly as a learning opportunity.
 
 ##Getting set up
 To run this app, you will need [NodeJS](http://www.nodejs.org) and [MongoDB](http://www.mongodb.org/downloads) installed locally.
