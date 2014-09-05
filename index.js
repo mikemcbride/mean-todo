@@ -4,6 +4,7 @@ var express         = require('express'),
     bodyParser      = require('body-parser'),
     methodOverride  = require('method-override')
 
+
 // App config =============================================
 mongoose.connect('mongodb://localhost:27017/todo');
 
